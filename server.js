@@ -24,7 +24,7 @@ app.get('/', (req, res) => {
     <html>
     <head>
         <link rel="icon" type="image/png" href="#">
-        <title>Servidor Cachaça Capitão</title>
+        <title>Servidor Atêlie My Pet</title>
         <style>
             body {
                 font-family: Arial, sans-serif;
